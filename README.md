@@ -19,10 +19,12 @@ Tools: Apache Tomcat, MySQL Workbench, Eclipse IDE
 📦 View Order History
 📦 Full CRUD for Medicines
 📊 Manage Customer Orders, track status
+
 🚀 Getting Started
 
 ✅ Prerequisites
-Java JDK 8+
-Apache Tomcat 9+
-MySQL Server
+
+Java JDK 8+ , 
+Apache Tomcat 9+ , 
+MySQL Server , 
 Eclipse IDE or compatible Java IDE
